@@ -132,7 +132,8 @@ navbar-text-col: "#E9EDC8"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#78AFE9"
+# UMB, see style guide v6
 hover-col: "#78AFE9"
 # UMB, see style guide v6
 footer-col: "#EAEAEA"
