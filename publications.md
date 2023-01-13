@@ -21,7 +21,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
 - **Nutritional compensation of the circadian clock is a conserved process influenced by gene expression regulation and mRNA stability**\\
     **Kelliher CM**, Stevenson EL, Loros JJ, Dunlap JC\\
     *PLoS Biology*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/36603054/" target="_blank">PubMed Link</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/36603054/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/2022.05.09.491261v2" target="_blank">Preprint Link</a>
 
 **2020**
@@ -29,7 +29,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
 - **PRD-2 directly regulates casein kinase I and counteracts nonsense-mediated decay in the Neurospora circadian clock**\\
     **Kelliher CM**, Lambreghts R, Xiang Q, Baker CL, Loros JJ, Dunlap JC\\
     *Elife*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/33295874/" target="_blank">PubMed Link</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/33295874/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/2020.10.29.360735v1" target="_blank">Preprint Link</a>
 
 - **Evaluating the circadian rhythm and response to glucose addition in dispersed growth cultures of Neurospora crassa**\\
@@ -52,7 +52,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
 - **The Cell-Cycle Transcriptional Network Generates and Transmits a Pulse of Transcription Once Each Cell Cycle**\\
     Cho CY, **Kelliher CM**, Haase SB\\
     *Cell Cycle*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/30668223/" target="_blank">PubMed Link</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/30668223/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/190686v1" target="_blank">Preprint Link</a>
 
 **2018**
@@ -67,7 +67,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
 - **Reconciling Conflicting Models for Global Control of Cell-Cycle Transcription**\\
     Cho CY, Motta FC, **Kelliher CM**, Deckard A, Haase SB\\
     *Cell Cycle*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/28934013/" target="_blank">PubMed Link</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/28934013/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/116798v1" target="_blank">Preprint Link</a>
 
 - **Connecting Virulence Pathways to Cell-Cycle Progression in the Fungal Pathogen Cryptococcus neoformans**\\
@@ -80,7 +80,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
 - **Investigating Conservation of the Cell-Cycle-Regulated Transcriptional Program in the Fungal Pathogen, Cryptococcus neoformans**\\
     **Kelliher CM**, Leman AR, Sierra CS, Haase SB\\
     *PLoS Genetics*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/27918582/" target="_blank">PubMed Link</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/27918582/" target="_blank">PubMed Link</a>\\
     <a href="https://facultyopinions.com/article/727072416?bd=1" target="_blank">F1000 Prime Microbiology Recommendation</a>
 
 - **The Local Edge Machine: inference of dynamic models of gene regulation**\\
