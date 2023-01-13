@@ -1,6 +1,6 @@
 ---
 layout: home
-cover-img: /clock_intro_figure.jpg
+cover-img: /clock_intro_figure_scaled1280px.jpg
 ---
 
 **About Us:**
