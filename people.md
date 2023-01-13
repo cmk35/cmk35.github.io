@@ -1,11 +1,24 @@
 ---
-layout: home
-# title: About me
-# subtitle: Hello
+layout: page
+title: Team
+subtitle: Kelliher Lab
 ---
 
-<img style="margin:0px 50px" align="left" src="Kelliher_GoogleScholar.JPG" width=270>
-<div style="text-align: justify">
-I am an Assistant Professor in the Department of Biology at the University of Massachusetts Boston.
-The Kelliher Lab studies circadian rhythms using the model organism <em>Neurospora crassa</em>.
-</div>
+### Principal Investigator
+![Tina](Kelliher_GoogleScholar.JPG)
+Tina Kelliher, Ph.D.\\
+Assistant Professor\\
+Email: christina.kelliher@umb.edu\\
+Telephone: xxx-xxx-xxxx\\
+Office Location: ISC xxxx
+<a href="https://cmk35.github.io/Kelliher_CV_Jan2023.pdf" target="_blank">Curriculum Vitae (CV)</a>
+
+### Lab Technicians & Research Assistants
+
+### Graduate Students
+
+### Undergraduate Students
+
+### Past Lab Members
+
+Contact information is kept up-to-date to the best of our ability. Please contact former lab members when considering joining our community!
