@@ -21,8 +21,8 @@ author: Tina Kelliher
 
 navbar-links:
   Home: "index"
-  Research:
-    - People: "people"
+  Our Research:
+    - Lab Team: "people"
     - Publications: "publications"
   CV: "cv"
 
