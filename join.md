@@ -19,7 +19,7 @@ Please email PI Tina Kelliher if you are interested in our lab for your graduate
 <a href="https://www.umb.edu/academics/csm/biology/grad/mcob_phd" target="_blank">MCOB track PhD Link</a>
 
 ### Postdoctoral Level
-Please email PI Tina Kelliher if you are interested in our lab for your post-graduate work: including your CV, contact information for 3 references, a maximum 2-page cover letter describing your research interests, and 0-2 PDFs of relevant publications.
+Please email PI Tina Kelliher if you are interested in our lab for your post-graduate work: including your CV, contact information for 3 references, a maximum 2-page cover letter describing your research interests, and 0-2 PDFs of relevant publications. Project depending, expertise in molecular biology or computational biology is required, but prior experience in rhythms research or fungal research is not necessarily a requirement.
 
 ### PI Contact Information
 Tina Kelliher\\
