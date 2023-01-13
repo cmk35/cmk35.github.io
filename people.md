@@ -5,7 +5,8 @@ subtitle: Kelliher Lab
 ---
 
 ### Principal Investigator
-![Tina](Kelliher_GoogleScholar.JPG){:height="368px" width="360px"}
+![Tina](Kelliher_GoogleScholar.JPG){:height="323px" width="300px"}
+<br />
 Tina Kelliher, Ph.D.\\
 Assistant Professor\\
 Email: christina.kelliher@umb.edu\\
