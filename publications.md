@@ -10,13 +10,13 @@ Link to our publications on <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1
 Link to our publications on <a href="https://scholar.google.com/citations?user=4EmwOtQAAAAJ" target="_blank">Google Scholar</a>.
 <br />
 
-**Under Review**
+### Under Review
 
 - **The Parasite Intraerythrocytic Cycle and Human Circadian Cycle are Coupled During Malaria Infection**\\
     Motta FC, McGoff K, Moseley RC, Cho CY, **Kelliher CM**, Smith LM, Ortiz MS, Leman AR, Campione SA, Devos N, Chaorattanakawee S, Uthaimongkol N, Kuntawunginn W, Thongpiam C, Thamnurak C, Arsanok M, Wojnarski M, Vanchayangkul P, Boonyalai N, Smith PL, Spring M, Jongsakul K, Chuang I, Harer J, Haase SB\\
     <a href="https://www.biorxiv.org/content/10.1101/2022.08.02.499203v1" target="_blank">Preprint Link</a>
 
-**2023**
+### 2023
 
 - **Nutritional compensation of the circadian clock is a conserved process influenced by gene expression regulation and mRNA stability**\\
     **Kelliher CM**, Stevenson EL, Loros JJ, Dunlap JC\\
@@ -24,7 +24,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
     <a href="https://pubmed.ncbi.nlm.nih.gov/36603054/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/2022.05.09.491261v2" target="_blank">Preprint Link</a>
 
-**2020**
+### 2020
 
 - **PRD-2 directly regulates casein kinase I and counteracts nonsense-mediated decay in the Neurospora circadian clock**\\
     **Kelliher CM**, Lambreghts R, Xiang Q, Baker CL, Loros JJ, Dunlap JC\\
@@ -47,7 +47,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
     *Science*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/32409472/" target="_blank">PubMed Link</a>
 
-**2019**
+### 2019
 
 - **The Cell-Cycle Transcriptional Network Generates and Transmits a Pulse of Transcription Once Each Cell Cycle**\\
     Cho CY, **Kelliher CM**, Haase SB\\
@@ -55,14 +55,14 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
     <a href="https://pubmed.ncbi.nlm.nih.gov/30668223/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/190686v1" target="_blank">Preprint Link</a>
 
-**2018**
+### 2018
 
 - **Layers of regulation of cell-cycle gene expression in the budding yeast Saccharomyces cerevisiae**\\
     **Kelliher CM**, Foster MW, Motta FC, Deckard A, Soderblom EJ, Moseley MA, Haase SB\\
     *Molecular Biology of the Cell*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/30207828/" target="_blank">PubMed Link</a>
 
-**2017**
+### 2017
 
 - **Reconciling Conflicting Models for Global Control of Cell-Cycle Transcription**\\
     Cho CY, Motta FC, **Kelliher CM**, Deckard A, Haase SB\\
@@ -75,7 +75,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
     *Current Genetics (Invited Review)*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/28265742/" target="_blank">PubMed Link</a>
 
-**2016**
+### 2016
 
 - **Investigating Conservation of the Cell-Cycle-Regulated Transcriptional Program in the Fungal Pathogen, Cryptococcus neoformans**\\
     **Kelliher CM**, Leman AR, Sierra CS, Haase SB\\
@@ -88,7 +88,7 @@ Link to our publications on <a href="https://scholar.google.com/citations?user=4
     *Genome Biology*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/27760556/" target="_blank">PubMed Link</a>
     
-**2014**
+### 2014
 
 - **Restraint of the G2/M Transition by the SR/RRM family mRNA Shuttling Binding Protein SNXA^HRB1 in Aspergillus nidulans**\\
     James SW, Banta T, Barra J, Ciraku L, Coile C, Cuda Z, Day R, Dixit C, Eastlack S, Giang A, Goode J, Guice A, Huff Y, Humbert S, **Kelliher C**, Kobie J, Kohlbrenner E, Mwambutsa F, Orzechowski A, Shingler K, Spell C, Anglin SL\\
