@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome!
-subtitle: Kelliher Lab
+# title: Welcome!
+# subtitle: Kelliher Lab
 # cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
