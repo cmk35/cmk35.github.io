@@ -1,9 +1,13 @@
 ---
 layout: home
-cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
+title: Welcome!
+subtitle: Kelliher Lab
+# cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
-**About Us:**
+![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg){:height="938px" width="1200px"}
+
+### About Us:
 The Kelliher Lab is investigating the circadian clock-- how most organisms tell time on planet Earth. Organisms use circadian clocks to align their behavior optimally with the 24-hour light/dark cycle.
 
 To study the eukaryotic circadian clock, we use the model organism filamentous fungus <em>Neurospora crassa</em>. The core circadian clock components in <em>Neurospora</em> are functionally related to our human circadian clock. In the Kelliher lab, we use genetic, genomic, biochemical, and computational tools in clocks research.
