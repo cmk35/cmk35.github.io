@@ -4,10 +4,10 @@ title: Publications
 subtitle: Kelliher Lab
 ---
 
-Link to our publications on <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/14yXoxVzs2PQL/bibliography/49267944/public/?sort=date&direction=ascending" target="_blank">PubMed</a>.
+Link to all publications on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=kelliher+cm+%5Bauthor%5D&sort=date" target="_blank">PubMed</a>.
 <br />
 
-Link to our publications on <a href="https://scholar.google.com/citations?user=4EmwOtQAAAAJ" target="_blank">Google Scholar</a>.
+Link to all publications on <a href="https://scholar.google.com/citations?user=4EmwOtQAAAAJ" target="_blank">Google Scholar</a>.
 <br />
 
 ## Under Review
