@@ -22,7 +22,7 @@ Fungal, insect, and mammalian circadian clocks exist at the level of individual 
 
 The <em>casein kinase I</em> (<em>ck-1a</em>, <a href="https://fungidb.org/fungidb/app/record/gene/NCU00685" target="_blank">NCU00685</a>) gene in <em>Neurospora crassa</em> is extremely complex-- it's 3' Untranslated Region (UTR) is among the top 1% longest annotated among all genes in the <em>Neurospora</em> genome! The CKI kinase is involved in many cellular pathways in addition to its key role in the circadian clock. In the Kelliher lab, we ask how the clock-relevant pool of CKI mRNAs and/or proteins is specified for FRQ binding and clock function. We have uncovered multiple functional domains in the 5' and 3' UTRs of <em>ck-1a</em> and seek to define the circadian functions of each of the 3 annotated protein isoforms of the CKI kinase.
 
-![CKI](PLoSBio_Figure_3_ck1a_gimp2000wPx_600dpi.jpg){:height="185px" width="900px"}
+![CKI](PLoSBio_Figure_3_ck1a_gimp2000wPx_600dpi.jpg){:height="164px" width="800px"}
 <br />
 
 ### Circadian functional genomics
