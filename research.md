@@ -14,6 +14,8 @@ Just like humans and other Earthlings, fungi experience large fluctuations in th
 
 In the Kelliher lab, we have identified a group of <em>Neurospora crassa</em> mutant strains where compensation is no longer functional, and the ~24-hour circadian period length is no longer buffered against changes in temperature or nutrients in the environment. We seek to characterize the mechanisms of these compensation pathways and how they normally work to buffer the clock from the environment. We and others have found evidence that circadian compensation also functions in our human cells, too! By defining pathways that shield the circadian clock from external nutrient levels, we aspire to find new ways to increase circadian and sleep/wake cycle robustness in patients suffering from metabolic diseases and diabetes, where external nutrient levels can be pushed outside the healthy physiological range.
 
+![NutritionalComp](journal.pbio.3001961.s013.mov)
+
 ### Circadian-specific pool of a key kinase
 
 Fungal, insect, and mammalian circadian clocks exist at the level of individual cells. Within each cell, daily time is kept through a transcription-translation feedback loop (TTFL). The <em>Neurospora crassa</em> TTFL is composed of the White Collar Complex (WCC) and FREQUENCY (FRQ). WCC acts as a transcription factor to turn on the <em>frq</em> gene once per day. FRQ protein is made after a time delay, and FRQ physically interacts with a kinase called Casein Kinase I (CKI). Unlike your typical kinase-substrate interaction, FRQ and CKI seem to bind together very stably throughout the negative arm phase of the TTFL. FRQ, CKI, and a third complex member FRH then feed back to inhibit WCC activity in the nucleus and to stop new <em>frq</em> synthesis.
