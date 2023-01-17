@@ -5,7 +5,7 @@ subtitle: Kelliher Lab
 # cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
-![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg){:height="782px" width="1000px"}
+![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg){:height="703px" width="900px"}
 
 ### About Us:
 The Kelliher Lab is investigating the circadian clock-- how most organisms tell time on planet Earth. Organisms use circadian clocks to align their behavior optimally with the 24-hour light/dark cycle.
