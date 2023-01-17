@@ -1,6 +1,6 @@
 ---
 layout: home
-cover-img: /clock_intro_figure_gimp2000wPx_600dpi.jpg
+cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
 **About Us:**
