@@ -5,7 +5,7 @@ layout: home
 # cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
-![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg){:height="703px" width="900px"}
+![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg){:height="664px" width="850px"}
 Fungal Microscopy Image Courtesy of Brad Bartholomai, Ph.D. Full Size Image: <a href="https://cmk35.github.io/clock_intro_figure_v2_gimp2000wPx_600dpi.jpg" target="_blank">Link</a>
 
 ### About Us:
