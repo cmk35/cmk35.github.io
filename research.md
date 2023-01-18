@@ -18,6 +18,8 @@ In the Kelliher lab, we have identified a group of <em>Neurospora crassa</em> mu
 <br />
 Source: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001961#sec017" target="_blank">S1 Movie</a> from our 2023 publication in PLoS Biology
 
+<em>Neurospora crassa</em> grows reasonably well without any carbon source or sugar supplied, and the circadian clock is functional with a reporter peak approximately every 24 hours (**A**, blue quantification line). However, feed <em>Neurospora</em> its favorite carbon source of table sugar, and much more / brighter biomass signal is produced (**B**, blue quantification line)! Fascinatingly, whether completely carbon-starved or consuming an all-candy diet, the circadian clock remains relatively constant due to circadian compensation. The Kelliher lab seeks to understand this phenomenon!
+
 ### Circadian-specific pool of a key kinase
 
 Fungal, insect, and mammalian circadian clocks exist at the level of individual cells. Within each cell, daily time is kept through a transcription-translation feedback loop (TTFL). The <em>Neurospora crassa</em> TTFL is composed of the White Collar Complex (WCC) and FREQUENCY (FRQ). WCC acts as a transcription factor to turn on the <em>frq</em> gene once per day. FRQ protein is made after a time delay, and FRQ physically interacts with a kinase called Casein Kinase I (CKI). Unlike your typical kinase-substrate interaction, FRQ and CKI seem to bind together very stably throughout the negative arm phase of the TTFL. FRQ, CKI, and a third complex member FRH then feed back to inhibit WCC activity in the nucleus and to stop new <em>frq</em> synthesis.
