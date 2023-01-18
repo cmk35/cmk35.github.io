@@ -15,6 +15,8 @@ Just like humans and other Earthlings, fungi experience large fluctuations in th
 In the Kelliher lab, we have identified a group of <em>Neurospora crassa</em> mutant strains where compensation is no longer functional, and the ~24-hour circadian period length is no longer buffered against changes in temperature or nutrients in the environment. We seek to characterize the mechanisms of these compensation pathways and how they normally work to buffer the clock from the environment. We and others have found evidence that circadian compensation also functions in our human cells, too! By defining pathways that shield the circadian clock from external nutrient levels, we aspire to find new ways to increase circadian and sleep/wake cycle robustness in patients suffering from metabolic diseases and diabetes, where external nutrient levels can be pushed outside the healthy physiological range.
 
 ![NutritionalComp](journal.pbio.3001961.s013.gif)
+<br />
+Source: S1 Movie from our 2023 publication in PLoS Biology: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001961#sec017" target="_blank">Link</a>
 
 ### Circadian-specific pool of a key kinase
 
