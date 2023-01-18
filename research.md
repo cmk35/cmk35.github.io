@@ -16,7 +16,7 @@ In the Kelliher lab, we have identified a group of <em>Neurospora crassa</em> mu
 
 ![NutritionalComp](journal.pbio.3001961.s013.gif)
 <br />
-Source: S1 Movie from our 2023 publication in PLoS Biology: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001961#sec017" target="_blank">Link</a>
+Source: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001961#sec017" target="_blank">S1 Movie</a> from our 2023 publication in PLoS Biology
 
 ### Circadian-specific pool of a key kinase
 
