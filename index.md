@@ -6,7 +6,7 @@ layout: home
 ---
 
 ![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg)
-Fungal Microscopy Image Courtesy of Brad Bartholomai, Ph.D. <a href="https://cmk35.github.io/clock_intro_figure_v2_gimp2000wPx_600dpi.jpg" target="_blank">Full Size Image</a>
+<a href="https://cmk35.github.io/clock_intro_figure_v2_gimp2000wPx_600dpi.jpg" target="_blank">Click Here for Full Size Image</a>! Thanks to Brad Bartholomai, Ph.D. for the microscopy image of <em>Neurospora</em> hyphae
 
 ### About Us:
 The Kelliher Lab is investigating the circadian clock-- how most organisms tell time on planet Earth. Organisms use circadian clocks to align their behavior optimally with the 24-hour light/dark cycle.
@@ -22,4 +22,4 @@ The Kelliher lab is part of the <a href="https://www.umb.edu/academics/csm/biolo
 Boston, MA 02125\\
 <a href="https://www.google.com/maps/place/Integrated+Sciences+Complex/@42.314013,-71.041035,15z/data=!4m5!3m4!1s0x0:0x1fd14e0182a90286!8m2!3d42.314013!4d-71.041035" target="_blank">Find us on Google Maps</a>
 
-![Logo](UMB_blue_TM.jpg){:height="278px" width="360px"}
+![Logo](UMB_blue_TM.jpg){:height="278px" width="360px"}(https://www.umb.edu/)
