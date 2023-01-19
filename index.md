@@ -15,7 +15,7 @@ To study the eukaryotic circadian clock, we use the model organism filamentous f
 
 Fungal, insect, and mammalian circadian clocks exist at the level of individual cells. Within each cell, daily time is kept through a transcription-translation feedback loop (TTFL). Shown above is the <em>Neurospora</em> TTFL, composed of the White Collar Complex (WCC) and FREQUENCY (FRQ).
 
-The Kelliher lab is part of the Department of Biology at the University of Massachusetts Boston. We are located in the Integrated Sciences Complex (ISC), newly built in 2015!
+The Kelliher lab is part of the <a href="https://www.umb.edu/academics/csm/biology" target="_blank">Department of Biology</a> at the University of Massachusetts Boston. We are located in the Integrated Sciences Complex (ISC), newly built in 2015!
 
 **The Kelliher Lab**\\
 100 Morrissey Blvd.\\
