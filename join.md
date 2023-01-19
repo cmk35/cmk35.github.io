@@ -25,4 +25,4 @@ Please email PI Tina Kelliher if you are interested in our lab for your post-gra
 Tina Kelliher\\
 Email: christina.kelliher@umb.edu\\
 Telephone: xxx-xxx-xxxx\\
-Office Location: ISC xxxx
+Office Location: ISC 5700
