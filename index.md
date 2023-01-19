@@ -5,8 +5,8 @@ layout: home
 # cover-img: /clock_intro_figure_v2_gimp2000wPx_600dpi.jpg
 ---
 
-![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg)
-<a href="https://cmk35.github.io/clock_intro_figure_v2_gimp2000wPx_600dpi.jpg" target="_blank">Click Here for Full Size Image</a>! Thanks to Brad Bartholomai, Ph.D. for the microscopy image of <em>Neurospora</em> hyphae
+[![Introduction](clock_intro_figure_v2_gimp2000wPx_600dpi.jpg)](https://cmk35.github.io/clock_intro_figure_v2_gimp2000wPx_600dpi.jpg)
+Thanks to Brad Bartholomai, Ph.D. for the microscopy image of <em>Neurospora</em> hyphae
 
 ### About Us:
 The Kelliher Lab is investigating the circadian clock-- how most organisms tell time on planet Earth. Organisms use circadian clocks to align their behavior optimally with the 24-hour light/dark cycle.
