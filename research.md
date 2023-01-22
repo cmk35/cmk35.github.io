@@ -18,7 +18,7 @@ In the Kelliher lab, we have identified a group of <em>Neurospora crassa</em> mu
 <br />
 Source: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001961#sec017" target="_blank">S1 Movie</a> from our 2023 publication in PLoS Biology
 
-<em>Neurospora crassa</em> grows reasonably well without any carbon source or sugar supplied, and the circadian clock is functional with a signal reporter peaking approximately every 24 hours (**A**, blue quantification line). However, feed <em>Neurospora</em> its favorite carbon source of table sugar, and much more (brighter signal) biomass signal is produced (**B**, yellow quantification line)! Fascinatingly, whether completely carbon-starved or consuming an "all-candy" diet, the circadian clock remains relatively constant due to circadian compensation. The Kelliher lab seeks to understand this phenomenon!
+<em>Neurospora crassa</em> grows reasonably well without any carbon source or sugar supplied, and the circadian clock is functional with a signal reporter peaking approximately every 24 hours (**A**, blue quantification line). However, feed <em>Neurospora</em> its favorite carbon source of glucose sugar, and a much brighter biomass signal is produced (**B**, yellow quantification line)! Fascinatingly, whether completely carbon-starved or consuming an "all-candy" diet, the circadian clock remains relatively constant due to circadian compensation. The Kelliher lab seeks to understand this phenomenon!
 
 ### Circadian-specific pool of a key kinase
 
