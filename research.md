@@ -35,6 +35,6 @@ The <em>casein kinase I</em> (<em>ck-1a</em>, <a href="https://fungidb.org/fungi
 ### Interested in learning more about our research projects?
 PI Contact Information: Tina Kelliher\\
 Email: christina.kelliher@umb.edu\\
-Telephone: xxx-xxx-xxxx\\
-Office Location: ISC 5700
+Telephone: 617-287-6683\\
+Office Location: ISC-5-5700
 
