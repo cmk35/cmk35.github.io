@@ -25,4 +25,4 @@ Your name here! :)
 
 ### Past Lab Members
 
-Contact information is kept up-to-date to the best of our ability. Please contact former lab members when considering joining our community! While our group is small since its founding in 2023, please reach out to any lab members from Tina's <a href="https://geiselmed.dartmouth.edu/dunlaploros/members/" target="_blank">postdoctoral research lab</a> to ask about her projects and mentorship style.
+Contact information is kept up-to-date to the best of our ability so that you can contact former lab members when considering joining our community! While our group is small since its founding in 2023, please reach out to any lab members from Tina's <a href="https://geiselmed.dartmouth.edu/dunlaploros/members/" target="_blank">postdoctoral research lab</a> to ask about her projects and mentorship style.
