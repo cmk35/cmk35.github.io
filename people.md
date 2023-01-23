@@ -10,8 +10,8 @@ subtitle: Kelliher Lab
 Tina Kelliher, Ph.D.\\
 Assistant Professor\\
 Email: christina.kelliher@umb.edu\\
-Telephone: xxx-xxx-xxxx\\
-Office Location: ISC 5700\\
+Telephone: 617-287-6683\\
+Office Location: ISC-5-5700\\
 <a href="https://cmk35.github.io/Kelliher_CV_Jan2023.pdf" target="_blank">Curriculum Vitae (CV)</a>
 
 ### Lab Technicians & Research Assistants
