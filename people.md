@@ -7,7 +7,7 @@ subtitle: Kelliher Lab
 ### Principal Investigator
 ![Tina](Kelliher_GoogleScholar.JPG){:height="323px" width="300px"}
 <br />
-Tina Kelliher, Ph.D.\\
+Tina Kelliher, Ph.D. (she/her)\\
 Assistant Professor\\
 Email: christina.kelliher@umb.edu\\
 Telephone: 617-287-6683\\
