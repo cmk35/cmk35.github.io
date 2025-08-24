@@ -7,7 +7,7 @@ subtitle: Kelliher Lab
 - FungiDB Database for <em>Neurospora crassa</em> genome and annotation: <a href="https://fungidb.org/" target="_blank">FungiDB Link</a>.
 <br />
 
-- Original 2003 <em>Neurospora crassa</em> genome sequencing: <a href="https://www.broadinstitute.org/fungal-genome-initiative/neurospora-crassa-genome-project" target="_blank">Broad Institute Link</a>. (<a href="https://pubmed.ncbi.nlm.nih.gov/12712197/" target="_blank">PubMed Link to genome paper</a>)
+- Original 2003 <em>Neurospora crassa</em> genome sequencing at the Broad Institute (<a href="https://pubmed.ncbi.nlm.nih.gov/12712197/" target="_blank">PubMed Link to genome paper</a>)
 <br />
 
 - Fungal Genetics Stock Center (FGSC) historical <em>Neurospora crassa</em> protocols and knockout (KO) collection database: <a href="https://www.fgsc.net/Neurospora/neurospora.html" target="_blank">FGSC Link</a>.
