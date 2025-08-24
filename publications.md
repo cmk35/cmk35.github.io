@@ -14,36 +14,36 @@ Link to all publications on <a href="https://scholar.google.com/citations?user=4
 
 - **Individual peroxiredoxin or Tor pathway components are not required for circadian clock function in Neurospora crassa**\\
     **Kelliher CM**, Dunlap JC\\
-    *Fungal Biology*\\
+    *Fungal Biology*
 
 - **Identification and correction of time-series transcriptomic anomalies**\\
     Campione SA, **Kelliher CM**, Roth C, Cho CY, Deckard A, Motta F, Haase SB\\
     *Nucleic Acids Research*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/40586306/" target="_blank">PubMed Link</a>\\
+    <a href="https://pubmed.ncbi.nlm.nih.gov/40586306/" target="_blank">PubMed Link</a>
 
 ## 2024
 
 - **A Compensated Clock: Temperature and Nutritional Compensation Mechanisms Across Circadian Systems**\\
     Stevenson EL, Mehalow AK, Loros JJ, **Kelliher CM**, Dunlap JC\\
     *Bioessays*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/39696884/" target="_blank">PubMed Link</a>\\
+    <a href="https://pubmed.ncbi.nlm.nih.gov/39696884/" target="_blank">PubMed Link</a>
 
 ## 2023
 
 - **Alignment of Synchronized Time-Series Data Using the Characterizing Loss of Cell Cycle Synchrony Model for Cross-Experiment Comparisons**\\
     Campione SA, **Kelliher CM**, Orlando DA, Tran TQ, Haase SB\\
     *JoVE*\\
-    <a href="https://pubmed.ncbi.nlm.nih.gov/37358275/" target="_blank">PubMed Link</a>\\
+    <a href="https://pubmed.ncbi.nlm.nih.gov/37358275/" target="_blank">PubMed Link</a>
 
 - **The Parasite Intraerythrocytic Cycle and Human Circadian Cycle are Coupled During Malaria Infection**\\
     Motta FC, McGoff K, Moseley RC, Cho CY, **Kelliher CM**, Smith LM, Ortiz MS, Leman AR, Campione SA, Devos N, Chaorattanakawee S, Uthaimongkol N, Kuntawunginn W, Thongpiam C, Thamnurak C, Arsanok M, Wojnarski M, Vanchayangkul P, Boonyalai N, Smith PL, Spring M, Jongsakul K, Chuang I, Harer J, Haase SB\\
-    *PNAS*\\
+    *Proceedings of the National Academy of Sciences of the United States of America*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/37279274/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/2022.08.02.499203v1" target="_blank">Preprint Link</a>
 
-- **Triplets?!? We're gonna need a bigger boat.**\\
+- **Triplets?!? We're gonna need a bigger boat...**\\
     St Thomas RJ, St Thomas AD, St Thomas ES, St Thomas BS, Kelliher St Thomas C\\
-    *Journal of Work-Life Balance*\\
+    *Journal of Work-Life Balance*
   
 - **Nutritional compensation of the circadian clock is a conserved process influenced by gene expression regulation and mRNA stability**\\
     **Kelliher CM**, Stevenson EL, Loros JJ, Dunlap JC\\
@@ -55,7 +55,7 @@ Link to all publications on <a href="https://scholar.google.com/citations?user=4
 
 - **PRD-2 directly regulates casein kinase I and counteracts nonsense-mediated decay in the Neurospora circadian clock**\\
     **Kelliher CM**, Lambreghts R, Xiang Q, Baker CL, Loros JJ, Dunlap JC\\
-    *Elife*\\
+    *eLife*\\
     <a href="https://pubmed.ncbi.nlm.nih.gov/33295874/" target="_blank">PubMed Link</a>\\
     <a href="https://www.biorxiv.org/content/10.1101/2020.10.29.360735v1" target="_blank">Preprint Link</a>
 
