@@ -42,7 +42,7 @@ Link to all publications on <a href="https://scholar.google.com/citations?user=4
     <a href="https://www.biorxiv.org/content/10.1101/2022.08.02.499203v1" target="_blank">Preprint Link</a>
 
 - **Triplets?!? We're gonna need a bigger boat...**\\
-    St Thomas RJ, St Thomas AD, St Thomas ES, St Thomas BS, Kelliher St Thomas C\\
+    St Thomas RJ, St Thomas AD, St Thomas ES, St Thomas BS, **Kelliher St Thomas C**\\
     *Journal of Work-Life Balance*
   
 - **Nutritional compensation of the circadian clock is a conserved process influenced by gene expression regulation and mRNA stability**\\
