@@ -5,14 +5,14 @@ subtitle: Kelliher Lab
 ---
 
 ### Principal Investigator
-![Tina](Kelliher_GoogleScholar.JPG){:height="323px" width="300px"}
+![Tina](2023-spring_Tina-5.jpeg){:height="416px" width="300px"}
 <br />
 Tina Kelliher, Ph.D. (she/her)\\
 Assistant Professor\\
 Email: christina.kelliher@umb.edu\\
 Telephone: 617-287-6683\\
 Office Location: ISC-5-5700\\
-<a href="https://cmk35.github.io/Kelliher_CV_Jan2023.pdf" target="_blank">Curriculum Vitae (CV)</a>
+<a href="https://cmk35.github.io/Kelliher_CV_Aug2025.pdf" target="_blank">Curriculum Vitae (CV)</a>
 
 ### Graduate Students
 
