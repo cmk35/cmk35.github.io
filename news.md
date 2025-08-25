@@ -43,6 +43,7 @@ subtitle: Kelliher Lab
 ## 2025
 
 - **November 2024**: Tina, Isaac, Asiris, Sam, and Daniella present at the <a href="https://massmyco.wordpress.com/program/massmyco-2024/" target="_blank">MassMyco conference</a>.
+![2024-group](2024-11-02_IMG_1402_LabPhoto.jpg){:height="300px" width="400px"}
 <br />
 
 - **August 2024**: Sam presents at the summer 2024 REU poster session!
