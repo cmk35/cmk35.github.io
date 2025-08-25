@@ -65,7 +65,7 @@ subtitle: Kelliher Lab
 - **June 2023**: Funding alert! 1-year internal support from the <a href="https://www.umb.edu/research/orsp/internal-funding-programs/" target="_blank">Joseph P. Healey Research Grant Program</a>.
 <br />
 
-- **May 2023**: Undergraduate commencement for Isaac: congratulations graduates!!
+- **May 2023**: Undergraduate commencement for Isaac and Sharra: congratulations graduates!!
 <br />
 
 - **January 2023**: Kelliher lab opens its doors in the Biology Department at UMass Boston!
