@@ -49,6 +49,9 @@ Karen Coelho (NSF REU), undergraduate, summer 2025\\
 Lily Tran, BSc (CSM Oracle Fellow), undergraduate, 2023-2024\\
 <a href="https://www.linkedin.com/in/lilytran004/" target="_blank">LinkedIn</a>
 
+Sharra Maynard, BSc, 2023\\
+<a href="https://www.linkedin.com/in/sharramaynard/" target="_blank">LinkedIn</a>
+
 Asiris Castillo, BSc (McNair Scholar), undergraduate, 2023-2024\\
 <a href="https://www.linkedin.com/in/asiris-castillo-980a5420a/" target="_blank">LinkedIn</a>
 
