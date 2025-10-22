@@ -5,7 +5,7 @@ subtitle: Kelliher Lab
 ---
 
 ### Principal Investigator
-![Tina](2023-spring_Tina-5.jpeg){:height="416px" width="300px"}
+![Tina](/lab_photos/2023-spring_Tina-5.jpeg){:height="416px" width="300px"}
 <br />
 Tina Kelliher, Ph.D. (she/her)\\
 Assistant Professor\\
