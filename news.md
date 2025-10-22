@@ -74,7 +74,7 @@ subtitle: Kelliher Lab
 <br />
 ![Tinas-office](/lab_photos/2023-03_UMassBoston_IMG_2243.jpg){:height="400px" width="300px"}
 <br />
-![lab-view](/lab_photos/2023-01_IMG_2845_labView.jpg){:height="400px" width="300px"}
+![lab-view](/lab_photos/2023-01_IMG_2845_labView.jpg)
 <br />
 
 ## 2023
