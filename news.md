@@ -44,7 +44,7 @@ subtitle: Kelliher Lab
 
 - **November 2024**: Tina, Isaac, Asiris, Sam, and Daniella present at the <a href="https://massmyco.wordpress.com/program/massmyco-2024/" target="_blank">MassMyco conference</a>.
 <br />
-![2024-group](2024-11-02_IMG_1402_LabPhoto.jpg){:height="300px" width="400px"}
+![2024-group](/lab_photos/2024-11-02_IMG_1402_LabPhoto.jpg){:height="300px" width="400px"}
 <br />
 
 - **August 2024**: Sam presents at the summer 2024 REU poster session!
@@ -72,9 +72,9 @@ subtitle: Kelliher Lab
 
 - **January 2023**: Kelliher lab opens its doors in the Biology Department at UMass Boston!
 <br />
-![Tinas-office](/lab_photos/2023-03_UMassBoston_IMG_2243.jpg){:height="400px" width="300px"}
+![lab-view](/lab_photos/2023-01_IMG_2845_labView.jpg){:height="400px" width="300px"}
 <br />
-![lab-view](/lab_photos/2023-01_IMG_2845_labView.jpg)
+![Tinas-office](/lab_photos/2023-03_UMassBoston_IMG_2243.jpg){:height="400px" width="300px"}
 <br />
 
 ## 2023
