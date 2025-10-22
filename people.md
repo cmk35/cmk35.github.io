@@ -16,21 +16,21 @@ Office Location: ISC-5-5700\\
 
 ### Graduate Students
 
-![Katelyn](/lab_photos/KD_DSC08296_crop.jpeg){:height="416px" width="300px"}
+![Katelyn](/lab_photos/KD_DSC08296_crop.jpg){:height="416px" width="300px"}
 <br />
 Katelyn Diune, BSc\\
 MCOB PhD Program, 2025-present\\
 Email: Katelyn.Diune001@umb.edu
 Joined: August 2025
 
-![Sharon](/lab_photos/SVA_IMG_0376.jpeg){:height="416px" width="300px"}
+![Sharon](/lab_photos/SVA_IMG_0376.jpg){:height="416px" width="300px"}
 <br />
 Sharon Veron Akisa, M.D.\\
 MCOB PhD Program, 2025-present\\
 Email: Sharon.Akisa001@umb.edu
 Joined: July 2025
 
-![Isaac](/lab_photos/IH_lab_photo.jpeg){:height="416px" width="300px"}
+![Isaac](/lab_photos/IH_lab_photo.jpg){:height="416px" width="300px"}
 <br />
 Isaac Hounain, BSc\\
 MCOB PhD Program, 2023-present\\
