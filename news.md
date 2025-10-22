@@ -72,9 +72,9 @@ subtitle: Kelliher Lab
 
 - **January 2023**: Kelliher lab opens its doors in the Biology Department at UMass Boston!
 <br />
-![lab-view](./lab_photos/2023-01_IMG_2845_labView.jpg){:height="400px" width="300px"}
+![lab-view](/lab_photos/2023-01_IMG_2845_labView.jpg){:height="400px" width="300px"}
 <br />
-![Tinas-office](2023-03_UMassBoston_IMG_2243.jpg){:height="400px" width="300px"}
+![Tinas-office](/lab_photos/2023-03_UMassBoston_IMG_2243.jpg){:height="400px" width="300px"}
 <br />
 
 ## 2023
