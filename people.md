@@ -20,21 +20,21 @@ Office Location: ISC-5-5700\\
 <br />
 Katelyn Diune, BSc\\
 MCOB PhD Program, 2025-present\\
-Email: Katelyn.Diune001@umb.edu
+Email: Katelyn.Diune001@umb.edu\\
 Joined: August 2025
 
 ![Sharon](/lab_photos/SVA_IMG_0376.jpg){:height="416px" width="300px"}
 <br />
 Sharon Veron Akisa, M.D.\\
 MCOB PhD Program, 2025-present\\
-Email: Sharon.Akisa001@umb.edu
+Email: Sharon.Akisa001@umb.edu\\
 Joined: July 2025
 
 ![Isaac](/lab_photos/IH_lab_photo.jpg){:height="416px" width="300px"}
 <br />
 Isaac Hounain, BSc\\
 MCOB PhD Program, 2023-present\\
-Email: Isaac.Hounain001@umb.edu
+Email: Isaac.Hounain001@umb.edu\\
 Joined: August 2023
 
 ### Lab Technicians & Research Assistants
