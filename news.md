@@ -4,6 +4,12 @@ title: News!
 subtitle: Kelliher Lab
 ---
 
+- **October 2025**: Isaac presents his first external seminar as a "Rapid Talk" at <a href="https://neurospora.org/neurospora-2025-program/" target="_blank">Neurospora</a>! Congratulations on this PhD journey milestone, Isaac!!
+<br />
+
+- **October 2025**: Isaac, Sam, and Tina present at the <a href="https://neurospora.org/neurospora-2025-program/" target="_blank">Neurospora conference</a>.
+<br />
+
 - **August 2025**: Karen presents at the summer 2025 REU poster session!
 <br />
 
