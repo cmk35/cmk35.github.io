@@ -14,7 +14,8 @@ Link to all publications on <a href="https://scholar.google.com/citations?user=4
 
 - **Individual peroxiredoxin or Tor pathway components are not required for circadian clock function in Neurospora crassa**\\
     **Kelliher CM**, Dunlap JC\\
-    *Fungal Biology*
+    *Fungal Biology*\\
+    <a href="https://pubmed.ncbi.nlm.nih.gov/40915678/" target="_blank">PubMed Link</a>
 
 - **Identification and correction of time-series transcriptomic anomalies**\\
     Campione SA, **Kelliher CM**, Roth C, Cho CY, Deckard A, Motta F, Haase SB\\
