@@ -9,6 +9,8 @@ subtitle: Kelliher Lab
 
 - **October 2025**: Isaac, Sam, and Tina present at the <a href="https://neurospora.org/neurospora-2025-program/" target="_blank">Neurospora conference</a>.
 <br />
+![2025-group](/lab_photos/2025-10-08_Neurospora_IMG_5168.jpg){:height="300px" width="400px"}
+<br />
 
 - **August 2025**: Karen presents at the summer 2025 REU poster session!
 <br />
