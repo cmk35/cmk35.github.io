@@ -23,7 +23,7 @@ Email: Michael.Bahiru@umb.edu\\
 Office Location: ISC-5-5150\\
 Joined: January 2026
 
-![Ziyan](/lab_photos/ZW_IMG_5078_crop.JPG){:height="416px" width="300px"}
+![Ziyan](/lab_photos/ZW_IMG_5078_crop.jpg){:height="416px" width="300px"}
 <br />
 Ziyan Wang, Ph.D.\\
 Email: Ziyan.Wang@umb.edu\\
