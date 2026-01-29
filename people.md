@@ -14,7 +14,30 @@ Telephone: 617-287-6683\\
 Office Location: ISC-5-5700\\
 <a href="https://cmk35.github.io/Kelliher_CV_Aug2025.pdf" target="_blank">Curriculum Vitae (CV)</a>
 
+### Postdoctoral Scholars
+
+![Michael](/lab_photos/MSB_IMG_3404.jpeg){:height="416px" width="300px"}
+<br />
+Michael Seifu Bahiru, Ph.D.\\
+Email: Michael.Bahiru@umb.edu\\
+Office Location: ISC-5-5150\\
+Joined: January 2026
+
+![Ziyan](/lab_photos/ZW_IMG_5078.JPG){:height="416px" width="300px"}
+<br />
+Ziyan Wang, Ph.D.\\
+Email: Ziyan.Wang@umb.edu\\
+Office Location: ISC-5-5600\\
+Joined: December 2025
+
 ### Graduate Students
+
+![Yara](/lab_photos/YA_IMG_0447.jpg){:height="416px" width="300px"}
+<br />
+Yara AlKhars, MSc\\
+MCOB PhD Program, 2024-present\\
+Email: Yara.AlKhars001@umb.edu\\
+Joined: December 2025
 
 ![Katelyn](/lab_photos/KD_DSC08296_crop.jpg){:height="416px" width="300px"}
 <br />
@@ -23,7 +46,7 @@ MCOB PhD Program, 2025-present\\
 Email: Katelyn.Diune001@umb.edu\\
 Joined: August 2025
 
-![Sharon](/lab_photos/SVA_IMG_0376.jpg){:height="416px" width="300px"}
+![Sharon](/lab_photos/SVA_IMG_1086.jpeg){:height="416px" width="300px"}
 <br />
 Sharon Veron Akisa, M.D.\\
 MCOB PhD Program, 2025-present\\
@@ -39,7 +62,7 @@ Joined: August 2023
 
 ### Lab Technicians & Research Assistants
 
-Daniella Antoine, BSc (McNair Scholar), 2024-present
+-
 
 ### Undergraduate Students
 
@@ -51,6 +74,9 @@ Sam Mejia (NSF REU & McNair Scholar), undergraduate, 2024-present\\
 <a href="https://www.linkedin.com/in/samantha-mejia03/" target="_blank">LinkedIn</a>
 
 ### Past Lab Members
+
+Daniella Antoine, BSc (McNair Scholar), 2024-2025\\
+<a href="https://www.linkedin.com/in/daniella-antoine-855865232/" target="_blank">LinkedIn</a>
 
 Karen Coelho (NSF REU), undergraduate, summer 2025\\
 <a href="https://www.linkedin.com/in/karen-miranda-coelho-b48246306/" target="_blank">LinkedIn</a>
