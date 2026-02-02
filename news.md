@@ -4,6 +4,12 @@ title: News!
 subtitle: Kelliher Lab
 ---
 
+- **February 2026**: Priya and Lonna each earn a CSM Undergraduate Research Fellowship (URF), supported by the Dean's Office, Oracle, and the Richard F. Leahy Endowment. Congratulations!
+<br />
+
+- **December 2025**: Sharon and Katelyn each earn a CSM Dean’s Travel Award for their March 2026 trip to Asilomar for Fungal Genetics. Congratulations!
+<br />
+
 - **October 2025**: Isaac presents his first external seminar as a "Rapid Talk" at <a href="https://neurospora.org/neurospora-2025-program/" target="_blank">Neurospora</a>! Congratulations on this PhD journey milestone, Isaac!!
 <br />
 
