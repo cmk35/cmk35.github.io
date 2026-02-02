@@ -39,7 +39,7 @@ MCOB PhD Program, 2024-present\\
 Email: Yara.AlKhars001@umb.edu\\
 Joined: December 2025
 
-![Katelyn](/lab_photos/KD_DSC08296_crop.jpg){:height="416px" width="300px"}
+![Katelyn](/lab_photos/KD_cpm35 2026-01-21 204904.274.JPG){:height="416px" width="300px"}
 <br />
 Katelyn Diune, BSc\\
 MCOB PhD Program, 2025-present\\
