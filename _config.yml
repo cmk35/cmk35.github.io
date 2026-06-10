@@ -52,7 +52,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "christina.kelliher@umb.com"
+  email: "christina.kelliher@umb.edu"
   github: cmk35
   twitter: TinaKelliher
   ORCID: 0000-0002-4554-1818
